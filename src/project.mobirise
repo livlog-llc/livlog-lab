@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "name": "LivLog lab",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "resumeamp",
+      "title": "ResumeAMP",
+      "styling": {
+        "primaryColor": "#4ea2e3",
+        "secondaryColor": "#4addff",
+        "successColor": "#0dcd7b",
+        "infoColor": "#8282e7",
+        "warningColor": "#767676",
+        "dangerColor": "#a0a0a0",
+        "mainFont": "Didact Gothic",
+        "display1Font": "Didact Gothic",
+        "display1Size": 2.6,
+        "display2Font": "Didact Gothic",
+        "display2Size": 2.1,
+        "display5Font": "Didact Gothic",
+        "display5Size": 1.6,
+        "display7Font": "Didact Gothic",
+        "display7Size": 0.8,
+        "display4Font": "Didact Gothic",
+        "display4Size": 0.9,
+        "isRoundedButtons": false
+      }
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.1",
+    "siteFonts": [],
+    "uniqCompNum": 0,
+    "versionPublish": "4.8.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
