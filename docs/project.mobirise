@@ -40,7 +40,7 @@
     "versionPublish": "4.8.6",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script async custom-element=\"amp-analytics\"\r\n    src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\r\n<amp-analytics type=\"googleanalytics\">\r\n<script type=\"application/json\">\r\n{\r\n  \"vars\": {\r\n    \"account\": \"UA-123905238-1\"\r\n  },\r\n  \"triggers\": {\r\n    \"trackPageview\": {\r\n      \"on\": \"visible\",\r\n      \"request\": \"pageview\"\r\n    }\r\n  }\r\n}\r\n</script>\r\n</amp-analytics>",
+    "google-analytics": "",
     "cookiesAlert": "リブログはクッキーを使ってサービスを提供しています。<a href='https://livlog-llc.github.io/terms-service/03_%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC'> Cookieポリシー</a>をご覧ください。",
     "gdpr": "当社のウェブサイトにアクセスすることにより、<a href='https://livlog-llc.github.io/terms-service/01_%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84'>利用規約</a>と<a href='https://livlog-llc.github.io/terms-service/02_%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC'>プライバシーポリシー</a>に同意したことになります。",
     "siteUrl": "",
