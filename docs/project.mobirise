@@ -55,7 +55,7 @@
         "main": true,
         "title": "Home | LivLog Lab+",
         "meta_descr": "リブログラボでは、技術的な検証やAPIの公開をしています。\nAPIや作成したサービスを掲載しています。",
-        "header_custom": "",
+        "header_custom": "<script async custom-element=\"amp-animation\" src=\"https://cdn.ampproject.org/v0/amp-animation-0.1.js\"></script>\n<script async custom-element=\"amp-position-observer\" src=\"https://cdn.ampproject.org/v0/amp-position-observer-0.1.js\"></script>",
         "footer_custom": "",
         "html_before": ""
       },
