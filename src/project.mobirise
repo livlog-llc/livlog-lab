@@ -37,10 +37,10 @@
       }
     ],
     "uniqCompNum": 27,
-    "versionPublish": "4.8.6",
+    "versionPublish": "4.8.10",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-93155925-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-93155925-1');\r\n</script>",
     "cookiesAlert": "リブログはクッキーを使ってサービスを提供しています。<a href='https://livlog-llc.github.io/terms-service/03_%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC'> Cookieポリシー</a>をご覧ください。",
     "gdpr": "当社のウェブサイトにアクセスすることにより、<a href='https://livlog-llc.github.io/terms-service/01_%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84'>利用規約</a>と<a href='https://livlog-llc.github.io/terms-service/02_%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC'>プライバシーポリシー</a>に同意したことになります。",
     "siteUrl": "",
