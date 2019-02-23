@@ -60,7 +60,7 @@
       "settings": {
         "main": true,
         "title": "Home | LivLog Lab+",
-        "meta_descr": "リブログラボでは、技術的な検証やAPIの公開をしています。\nAPIや作成したサービスを掲載しています。",
+        "meta_descr": "リブログラボでは、技術的な検証やAPIの公開をしています。また、APIや作成したサービスを掲載しています。",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
